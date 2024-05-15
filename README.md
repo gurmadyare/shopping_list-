@@ -3,7 +3,7 @@ In this mini project, i have done this shopping list app
 where you can add items to the shopping list, you can also 
 filyer them by checked, unchecked, and all, & finally you 
 can delete any item you want from the shopping list by sliding 
-the item to the left. statemanagement i have used is Riverpod.
+the item to the left. The statemanagement i have used is Riverpod.
 
 A new Flutter project.
 
